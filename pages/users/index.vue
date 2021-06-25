@@ -1,9 +1,3 @@
 <template>
-  <p>Please enter an id and click the button.</p>
+  <h1>The users view</h1>
 </template>
-
-<script>
-export default {
-  layout: 'users'
-}
-</script>
